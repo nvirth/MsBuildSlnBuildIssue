@@ -55,4 +55,6 @@
     <Target Name="AfterBuild">
     </Target>
     -->
+
+  <Import Project="..\ChildProject.proj" />
 </Project>
